@@ -1,0 +1,23 @@
+.sub {
+    color:#00aa00;
+    text-decoration:underline;
+  }
+  .tach {
+    color:#00aa00;
+    text-decoration:line-through;
+  }
+
+
+  .pre {
+    font-family:verdana;
+    font-size:14px;
+    font-style:italic;
+    color:red;
+  }
+  .res {
+    font-family:verdana;
+    font-size:12px;
+    font-style:normal;
+    text-align:justify;
+    color:blue;
+  }

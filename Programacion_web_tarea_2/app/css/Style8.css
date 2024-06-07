@@ -1,0 +1,15 @@
+.style1 {
+    list-style-type:decimal;
+  }
+  
+  .style2 {
+    list-style-type:lower-roman;
+  }
+
+  .style3 {
+    list-style-position:inside;
+  }
+  
+  .style4 {
+    list-style-position:outsite;
+  }

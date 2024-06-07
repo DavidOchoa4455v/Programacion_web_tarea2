@@ -1,0 +1,17 @@
+#principal {
+    background-color:black;
+    color:wheat;
+    font-family:Courier;
+  }
+  
+  #base {
+    background-color:red;
+    font-family:Arial;
+    text-indent:20px;
+  }
+  
+  #pie {
+    background-color:blue;  
+    text-align:center;
+    color:#eedd00;
+  }
